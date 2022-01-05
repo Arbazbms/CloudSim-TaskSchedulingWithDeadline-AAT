@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Arbazbms/CloudSim-TaskSchedulingWithDeadline-AAT/blob/main/output.PNG)
 ![alt text](https://github.com/Arbazbms/CloudSim-TaskSchedulingWithDeadline-AAT/blob/main/profit.PNG)
 
-``
+```
 Selected JOBS: 
 6 7 0 3 9 
 Total Profit: 12084
@@ -26,8 +26,10 @@ Cloudlet: 6		1.4		8.809999		10.209999
 Average Waiting Time on Total: 1.8959999
 Average Turn Around Time on Total: 2.9169998
 
-``
+```
 
+
+```
 
 ========== OUTPUT ==========
 Cloudlet 	 Burst Time 	 Waiting Time 	 Turn Around Time
@@ -77,4 +79,4 @@ Cloudlet ID    STATUS    Data center ID    VM ID        Time    Start Time    Fi
     8        SUCCESS        2            3            2.22        0.1            2.32    3
     1        SUCCESS        2            0            1.4        1.38            2.78    3
 CloudSimExample6 finished!
-
+```
