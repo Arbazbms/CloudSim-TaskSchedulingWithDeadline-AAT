@@ -1,6 +1,5 @@
 # OUTPUT Task Scheduling with deadline
-![alt text](https://github.com/Arbazbms/CloudSim-TaskSchedulingWithDeadline-AAT/blob/main/output.PNG)
-![alt text](https://github.com/Arbazbms/CloudSim-TaskSchedulingWithDeadline-AAT/blob/main/profit.PNG)
+
 
 ```
 Selected JOBS: 
